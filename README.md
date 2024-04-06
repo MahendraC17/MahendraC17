@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahendrac17" alt="mahendrac17" /></a> </p>
 
-- 🔭 I’m currently working on **Exploratory Data Analysis - Renewable Power plants In UK**
+- 🔭 I’m currently working on **Scratching and rummaging head for a topic**
+
+- - 🔭 Finished working on **Exploratory Data Analysis - Renewable Power plants In UK**
 
 - 📫 How to reach me **choudharymahendra183@gmail.com**
 
