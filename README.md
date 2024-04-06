@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Scratching and rummaging head for a topic**
 
-- - 🔭 Finished working on **Exploratory Data Analysis - Renewable Power plants In UK**
+- 🔭 Finished working on **Exploratory Data Analysis - Renewable Power plants In UK**
 
 - 📫 How to reach me **choudharymahendra183@gmail.com**
 
