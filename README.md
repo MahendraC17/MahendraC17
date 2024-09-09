@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Scratching and rummaging head for a topic**
 
-- 🔭 Finished working on **Hypothesis Testing for Market Insights**
+- 🔭 Finished working on **Causal AI - Customer Churn**
 
 - 📫 How to reach me **choudharymahendra183@gmail.com**
 
