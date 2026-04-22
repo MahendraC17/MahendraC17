@@ -7,7 +7,7 @@
 <div align="left">
 
 ## 💫 About Me:
-- 👨‍💻 About Me - Software Engineer & DS and AI graduate focused on building practical, data backed systems-driven systems.<br>
+- 👨‍💻 About Me - Software Engineer & DS and AI graduate focused on building practical, data-backed systems.<br>
 - ⚡ What I’ve Built So Far - Projects in analytics, forecasting, predictive, and LLM-based systems.<br>
 - 🔭 What Interests Me: Solving problems using explainable models driven by stats.<br>
 - ❤️ Likes: Cats, Coffee, History, Sleep.<br><br>
